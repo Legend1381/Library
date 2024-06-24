@@ -1,0 +1,7 @@
+830350|Chemistry 2e|Chemistry
+631672|Chemistry|Chemistry
+720189|Understanding Electricity|Electricity
+530160|lord of the rings|General
+293049|how to program|Computer
+625398|c++|Computer
+842776|java|Mathematics
