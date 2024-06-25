@@ -1,7 +1,7 @@
 # Labrary-management
 
 This is my first ever project, just keeping it here so that I don't forget where I started
-And for fun! :)
+And for fun! 😆
 
 ## Recommended IDE Setup
 
